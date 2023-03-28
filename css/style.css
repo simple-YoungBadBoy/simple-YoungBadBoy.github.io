@@ -1169,7 +1169,7 @@ html[xmlns] .slides {
   font-weight: normal;
   margin-top: 70px;
   padding: 33px 0 45px 0;
-  background: url(../images/pattern11.png);
+  background: #323232;
   overflow: hidden;
   text-align: center;
 }
@@ -2813,6 +2813,7 @@ html[xmlns] .slides {
   .bannerlist01 {
     padding: 40px 0 0 0;
     margin-top: 40px;
+    background: #323232;
   }
   .bannerlist01 h1 {
     font-size: 20px;
