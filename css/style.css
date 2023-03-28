@@ -1242,7 +1242,7 @@ html[xmlns] .slides {
   margin-top: 2%;
   line-height: 28px;
   font-family: '微软雅黑';
-  font-size: 14px;
+  font-size: 18px;
 }
 .about_n img {
   width: 100%;
@@ -2946,7 +2946,7 @@ html[xmlns] .slides {
     font-size: 20px;
   }
   .about_n {
-    font-size: 14px;
+    font-size: 18px;
   }
   .culture {
     margin-top: 8%;
