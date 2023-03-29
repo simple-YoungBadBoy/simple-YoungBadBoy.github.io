@@ -1193,7 +1193,7 @@ html[xmlns] .slides {
   margin: 0 auto;
   overflow: hidden;
   margin-top: 1%;
-  z-index: 99999;
+  z-index: 99;
   position: relative;
   font-size: 12px;
   font-family: '微软雅黑';
@@ -2378,7 +2378,7 @@ html[xmlns] .slides {
   width: 161px;
   height: 290px;
   position: fixed;
-  top: 250px;
+  top: 280px;
   right: 0px;
   z-index: 100;
 }
